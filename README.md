@@ -61,18 +61,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-# Current Position and Certificates
-
+# Current Position
 ###
 
-|| Organizations |
+|| Young Apprentice |
 |:--:|:--|
 | <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • 3rd Semester • ETS Brazil (Engineering Technical School <br> <h6>2025 - 2026</h6>|
 | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3e1ec0d1-e20e-4ba0-b856-0aa2b91cf095" /> | Student of Systems Development (DS) • 3rd Semester <br> <h6>2025 - 2026</h6> |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/276182cc-5afd-4421-b74a-dccf77c16291" /> | Volunteering • Computing • Arts <br> <h6> 2024 - 2024 </h6> |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5148c98a-fb82-408c-b022-48a66b62a0cd" /> | Microsoft Office Suite • Power Point • Excel • Power BI • Word <h6>2022 - 2023</h6> |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/848e68fb-b85f-47e8-a97e-6720a383f131" /> | Robotics • Hardware Programming <br> <h6>2022 - 2022</h6> |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3cc0a8f4-4db9-4fca-b7e6-7f6be5cbad06" /> | English • 5th Semester • Mackenzie Presbyterian University • Intermediate level • F1 2026 <br> <h6>2024 - 2028</h6>|
 
 ---
 
