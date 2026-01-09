@@ -61,15 +61,18 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-# Current Position
+# Current Position and Certificates
 
 ###
 
-|| Young Apprentice |
+|| Organizations |
 |:--:|:--|
-| <img width="210" height="210" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | **Bosch** is a **world** leader in industrial **technology** and solutions. I work at the **Campinas** plant, participating in the **company's** daily operations and projects.<br><br>🔗 [https://www.bosch.com.br](https://www.bosch.com.br "Access the Bosch website") |
-| <img width="210" height="210" alt="image" src="https://github.com/user-attachments/assets/3e1ec0d1-e20e-4ba0-b856-0aa2b91cf095" /> | **SENAI** (National Service for Industrial Training **NSIT**) It is one of the **leading institutions** for **professional and technological education** in Brazil. It operates in the **training of young apprentices**, Technical training and innovation for the **national industry**.<br><br>🔗 [https://ead.sp.senai.br]( https://ead.sp.senai.br/Usuario/Login?ReturnUrl=%2f "Access the SENAI website") |
-
+| <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • 3rd Semester • ETS Brazil (Engineering Technical School|
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3e1ec0d1-e20e-4ba0-b856-0aa2b91cf095" /> | Student of Systems Development (DS) • 3rd Semester  |
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/276182cc-5afd-4421-b74a-dccf77c16291" /> | Volunteering • Computing • Arts |
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5148c98a-fb82-408c-b022-48a66b62a0cd" /> | Microsoft Office Suite • Power Point • Excel • Power BI • Word |
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/848e68fb-b85f-47e8-a97e-6720a383f131" /> | Robotics • Hardware Programming |
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3cc0a8f4-4db9-4fca-b7e6-7f6be5cbad06" /> | English • 5th Semester • Mackenzie Presbyterian University • Intermediate level • F1 2026 |
 
 ---
 
