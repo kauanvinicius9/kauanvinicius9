@@ -56,8 +56,11 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 - 📚 BookStore;<br>
 [https://github.com/kauanvinicius9/BookStore](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
 
-- 📋 Translator.<br>
+- 📋 Translator;<br>
 [hthttps://github.com/kauanvinicius9/R-Translator](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
+
+- 🎨 UI/UX Figma.<br>
+[https://www.figma.com](https://www.figma.com/design/neyDJj6NmR0UM0KLV0KQmb/URBN?node-id=0-1&p=f&t=RndYHqiJT9s5MkOS-0 "Click Here")<br>
 
 ---
 
