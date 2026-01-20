@@ -45,22 +45,22 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 ###
 
 - 💻 User Registration in the Database;<br>
-[https://github.com](https://github.com/kauanvinicius9/Back-End "Click Here")<br>
+[https://github.com/kauanvinicius9](https://github.com/kauanvinicius9/Back-End "Click Here")<br>
 
 - 🧑🏻‍💻 Portfólio with Exercises;<br>
-[https://github.com](https://github.com/kauanvinicius9/Portfolio-SENAI "Click Here")<br>
+[https://github.com/kauanvinicius9](https://github.com/kauanvinicius9/Portfolio-SENAI "Click Here")<br>
 
 - 📩 Official Portfólio (2);<br>
-[https://github.com](https://github.com/kauanvinicius9/Portfolio-V2 "Click Here")<br>
+[https://github.com/kauanvinicius9](https://github.com/kauanvinicius9/Portfolio-V2 "Click Here")<br>
 
 - 📚 BookStore;<br>
-[https://github.com](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
+[https://github.com/kauanvinicius9](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
 
 - 📋 Translator;<br>
-[hthttps://github.com](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
+[https://github.com/kauanvinicius9](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
 
 - 🎨 UI/UX Figma.<br>
-[https://www.figma.com](https://www.figma.com/design/neyDJj6NmR0UM0KLV0KQmb/URBN?node-id=0-1&p=f&t=RndYHqiJT9s5MkOS-0 "Click Here")<br>
+[https://www.figma.com/kauanvinicius9](https://www.figma.com/design/neyDJj6NmR0UM0KLV0KQmb/URBN?node-id=0-1&p=f&t=RndYHqiJT9s5MkOS-0 "Click Here")<br>
 
 ---
 
@@ -69,7 +69,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 || Young Apprentice |
 |:--:|:--|
-| <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • 3rd Semester • ETS Brazil (Engineering Technical School <br> <h6>2025 - 2026</h6>|
+| <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • 3rd Semester • ETS Brazil (Engineering Technical School) <br> <h6>2025 - 2026</h6>|
 | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3e1ec0d1-e20e-4ba0-b856-0aa2b91cf095" /> | Student of Systems Development (DS) • 3rd Semester <br> <h6>2025 - 2026</h6> |
 
 ---
