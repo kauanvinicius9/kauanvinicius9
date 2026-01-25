@@ -40,6 +40,16 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
+# Languages 
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanvinicius9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="270" alt="languages graph"  />
+</div>
+
+---
+
 # Featured Projects
 
 ###
