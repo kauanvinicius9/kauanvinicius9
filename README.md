@@ -40,16 +40,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-# Languages 
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanvinicius9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="270" alt="languages graph"  />
-</div>
-
----
-
 # Featured Projects
 
 ###
@@ -57,21 +47,25 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 - 💻 User Registration in the Database;<br>
 [https://github.com/kauanvinicius9/Back-End](https://github.com/kauanvinicius9/Back-End "Click Here")<br>
 
+###
+
 - 📩 Official Portfólio (2);<br>
 [https://github.com/kauanvinicius9/Portfolio-V2](https://github.com/kauanvinicius9/Portfolio-V2 "Click Here")<br>
+
+###
 
 - 📚 BookStore;<br>
 [https://github.com/kauanvinicius9/Bookstore](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
 
+###
+
 - 📋 Translator;<br>
 [https://github.com/kauanvinicius9/R-Translator](https://github.com/kauanvinicius9/R-Translator "Click Here")<br>
-
-- 🎨 UI/UX Figma.<br>
-[https://www.figma.com/kauanvinicius9](https://www.figma.com/design/neyDJj6NmR0UM0KLV0KQmb/URBN?node-id=0-1&p=f&t=RndYHqiJT9s5MkOS-0 "Click Here")<br>
 
 ---
 
 # Current Position
+
 ###
 
 || Young Apprentice |
