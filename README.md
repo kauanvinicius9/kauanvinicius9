@@ -1,7 +1,3 @@
-<img width="1114" height="284" alt="image" src="https://github.com/user-attachments/assets/70fcb333-c009-4e89-8506-88fcf523f08f" />
-
-###
-
 # 👋 Hello World, I'm Kauan!
 
 ###
@@ -14,7 +10,7 @@ I am a professional who works at the intersection of **technology** and **creati
 
 ###
 
-With **junior experience** in `full-stack` development, I have a passion for transforming ideas into **functional** products — whether with **clean code**, intuitive interfaces, or clear documentation.
+I have a passion for transforming ideas into **functional** products — whether with **clean code**, intuitive interfaces, or clear documentation.
 
 ###
 
