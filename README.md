@@ -29,7 +29,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <a href="mailto:saleskauan308@gmail.com" title="E-mail">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cccccc&logoColor=d20202&labelColor=0000&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/kauan-vin%C3%ADcius-953773359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="Linkedin">
+  <a href="https://www.linkedin.com/in/kauan-vin%C3%ADcius-953773359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1460be&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
