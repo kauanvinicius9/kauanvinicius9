@@ -36,25 +36,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-# Featured Projects
-
-###
-
-- 💻 User Registration in the Database;<br>
-[https://github.com/kauanvinicius9/Back-End](https://github.com/kauanvinicius9/Back-End "Click Here")<br>
-
-###
-
-- 📩 Official Portfólio;<br>
-[https://github.com/kauanvinicius9/Portfolio-V2](https://github.com/kauanvinicius9/Portfolio-V2 "Click Here")<br>
-
-###
-
-- 📚 BookStore;<br>
-[https://github.com/kauanvinicius9/Bookstore](https://github.com/kauanvinicius9/BookStore "Click Here")<br>
-
----
-
 # Current Position
 
 ###
