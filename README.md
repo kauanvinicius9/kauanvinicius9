@@ -2,7 +2,7 @@
 
 ###
 
-**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **17** Years Old | **High School** Student - **3rd** Year |
+**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **DBA** and **Logistics**
 
 ---
 
@@ -43,7 +43,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 || Young Apprentice |
 |:--:|:--|
 | <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • ETS Brazil (Engineering Technical School) <h6>2025 - 2026</h6> |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3e1ec0d1-e20e-4ba0-b856-0aa2b91cf095" /> | Student of Systems Development (DS) • 3rd Semester <br> <h6>2025 - 2026</h6> |
 
 ---
 
