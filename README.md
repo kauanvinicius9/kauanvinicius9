@@ -42,7 +42,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 || Young Apprentice |
 |:--:|:--|
-| <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice • ETS Brazil (Engineering Technical School) <h6>2025 - 2026</h6> |
+| <img width="110" height="110" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice in **ETS Brazil** (Engineering Technical School), acting today as **DBA** in **MA** (Mobility Aftermarket) |
 
 ---
 
