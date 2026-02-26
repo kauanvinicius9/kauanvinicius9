@@ -6,7 +6,7 @@
 
 ---
 
-Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **UI/UX**, and **software development**.
+Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **UI/UX**, **data science** and **software development**.
 
 ###
 
