@@ -46,11 +46,11 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ---
 
-# License n' Contributions
+# License and Contributions
 
 ###
 
-Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
+> Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
 
 ###
 
