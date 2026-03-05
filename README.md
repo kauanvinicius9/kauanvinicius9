@@ -41,41 +41,41 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo" title="CSS" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="TailwindCSS" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" title="Bootstrap" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo" title="Vue JS" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
   <img width="1" /><br>
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular JS" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo" title="Django" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo" title="FastAPI" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" title="Flutter" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="Postman" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
 </div>
 
 ## Current Position
