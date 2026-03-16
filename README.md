@@ -51,7 +51,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo" title="Vue JS" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React JS" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
   <img width="1" />
