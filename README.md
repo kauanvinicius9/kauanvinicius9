@@ -76,6 +76,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="Postman" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo" title="Arduíno" />
 </div>
 
 ## Current Position
