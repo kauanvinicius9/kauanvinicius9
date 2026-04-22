@@ -49,17 +49,15 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" title="Bootstrap" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo" title="Vue JS" />
-  <img width="1" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React JS" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
-  <img width="1" /><br>
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular JS" />
+  <img width="1" /><br>
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
   <img width="1" />
@@ -76,8 +74,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="Postman" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo" title="Arduíno" />
 </div>
 
 ## Current Position
