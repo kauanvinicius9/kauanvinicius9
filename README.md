@@ -82,7 +82,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 || Young Apprentice |
 |:--:|:--|
-| <img width="130" height="130" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b"/> | Young Apprentice in **ETS Brazil** (Engineering Technical School), acting today as **Data Science** in **MA** (Mobility Aftermarket) |
+| <img width="130" height="130" alt="Bosch logo" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA"/> | Young Apprentice in **ETS Brazil** (Engineering Technical School), acting today as **Data Science** in **MA** (Mobility Aftermarket) |
 
 ---
 
