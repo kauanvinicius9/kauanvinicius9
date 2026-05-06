@@ -2,11 +2,11 @@
 
 ###
 
-**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **Data Science** and **Logistics**
+**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **18** years old
 
 ---
 
-Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **UI/UX**, **data science** and **software development**.
+Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **design**, **data science**, **automation** and **software development**.
 
 ###
 
