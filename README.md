@@ -56,6 +56,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular JS" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo" title="SCSS/SASS" />
   <img width="1" /><br>
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript" />
   <img width="1" />
