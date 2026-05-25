@@ -49,13 +49,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" title="Bootstrap" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React JS" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
   <img width="1" />
-  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular JS" />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo" title="SCSS/SASS" />
   <img width="1" /><br>
