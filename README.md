@@ -56,15 +56,23 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo" title="Angular" />
+  <img width="1" /></br>
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo" title="Spring-Boot" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" title="Next" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vuejs logo" title="Vue" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="45" alt="nuxtjs logo" title="Nuxt" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo" title="SCSS/SASS" />
-  <img width="1" /><br>
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo" title="Django" />
-  <img width="1" />
+  <img width="1" /></br>
   <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo" title="FastAPI" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
