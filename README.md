@@ -112,9 +112,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")
-
-###
-
-See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
+- See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License");
+- See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
 
