@@ -96,11 +96,9 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ###
 
-|  |  |  |
-|:--:|:--:|:--
+|  |  |
+|:--:|:--|
 | <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Young Apprentice in **Systems Development**</br> <h6>Mar 2025 - Jul 2026</h6> |
-| <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Intern in **Data Base Analytics** and **Automation**</br> <h6>Fev 2026 - Dez 2026</h6> |
-| <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Kind of Official in **Systems Development**</br> <h6>Jul 2026 - Dez 2026</h6> |
 
 
 ---
