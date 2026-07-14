@@ -1,4 +1,4 @@
-# 👋🏻 Hello World, I'm Kauan!  
+# 👋🏻 Hello World, I'm Kauan!
 
 ###
 
