@@ -78,6 +78,12 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo" title="PostgreSQL" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" title="MongoDB" />
+  <img width="1" /></br>
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo" title="Redis" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo" title="Microsoft Azure" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="netlify logo" title="Netlify" />
 </div>
 
 ---
