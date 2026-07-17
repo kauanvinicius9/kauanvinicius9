@@ -1,6 +1,6 @@
 # 👋🏻 Hello World, I'm Kauan!  
 
-**Bosch** Employee | From **Brazil** - Campinas/São Paulo | **18** years old
+**Bosch** Employee Intern | From **Brazil** - Campinas/São Paulo | **18** years old
 
 ---
 
