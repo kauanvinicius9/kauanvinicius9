@@ -1,26 +1,16 @@
 # 👋🏻 Hello World, I'm Kauan!  
 
-###
-
 **Bosch** Employee | From **Brazil** - Campinas/São Paulo | **18** years old
 
 ---
 
 Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **design**, **data science**, **automation** and **software development**.
 
-###
-
 I have a passion for transforming ideas into **functional** products — whether with **clean code**, intuitive interfaces, or clear documentation.
-
-###
 
 Throughout my journey, I have been dedicating myself every day to learning new `languages`, `tools`, and `skills`, always seeking to improve my technical knowledge and my ability to work in a team.
 
-###
-
 Today, I **focus** on delivering complete tasks, and doing so `100%` professionally. My career is marked by a commitment to continuous **growth**, adaptation to new challenges, and the pursuit of excellence in **every project**!
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
@@ -37,8 +27,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 ---
 
 ## Languages and Tools
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
@@ -94,23 +82,16 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 ## Current Position
 
-###
-
 |  |  |
 |:--:|:--|
 | <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Young Apprentice in **Systems Development**</br> <h6>Mar 2025 - Jul 2026</h6> |
 | <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Intern in **Systems Development**</br> <h6>Jul 2026 - Dez 2026</h6> |
 
-
 ---
 
 ## License and Contributions
 
-###
-
-> Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.
-
-###
+<h6>Some projects are licensed under the **MIT License**. You can **freely use**, **modify**, and **distribute**, with **proper credit** to the **author**.</h6>
 
 - See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License");
 - See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
