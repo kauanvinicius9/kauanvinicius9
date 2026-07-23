@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira&weight=600&size=28&pause=2000&color=F7F7F7&width=450&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello+World%2C+I'm+Kauan!;" alt="Typing SVG" />
-</a>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;UI%2FUX+Designer;Bosch+Software+Engineer+Intern"/> </a> </p>
 
 **Bosch** Employee Intern | From **Brazil** - Campinas/São Paulo | **18** years old
 
@@ -87,6 +85,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 </div>
 
 ---
+
 
 ## Current Position
 
