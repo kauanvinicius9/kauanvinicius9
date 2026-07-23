@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Bosch+Software+Engineer+Intern"/> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Bosch+Software+Engineer+Intern;Data+Science+and+Automation"/> </a> </p>
 
 **Bosch** Employee Intern | From **Brazil** - Campinas/São Paulo | **18** years old
 
