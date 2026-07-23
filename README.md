@@ -82,6 +82,8 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="azure logo" title="Microsoft Azure" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="netlify logo" title="Netlify" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo" title="Vercel" />
 </div>
 
 ---
