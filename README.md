@@ -103,3 +103,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 - See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License");
 - See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+</p>
