@@ -1,8 +1,18 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Bosch+Software+Engineer+Intern;Data+Science+and+Automation"/> </a> </p>
 
-**Bosch** Employee Intern | From **Brazil** - Campinas/São Paulo | **18** years old
+<p align="center">
+  Bosch Employee Intern | From Brazil - Campinas/São Paulo | 18 years old
+</p>
 
----
+
+<details>  
+  <summary align="center">
+      <samp>
+        <b style="font-size: 15pt;">About</b>
+      </samp>
+  </summary>
+
+  ---
 
 Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **design**, **data science**, **automation** and **software development**.
 
@@ -24,11 +34,9 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   </a>
 </div>
 
----
-
 ## Languages and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo" title="CSS" />
@@ -78,17 +86,12 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" title="MongoDB" />
 </div>
 
----
-
-
 ## Current Position
 
 |  |  |
 |:--:|:--|
 | <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Young Apprentice in **Systems Development**</br> <h6>Mar 2025 - Jul 2026</h6> |
 | <img width="130" src="https://github.com/user-attachments/assets/2d8fb34c-7832-402a-b915-d24b42f9762b" title="Robert Bosch LTDA" /> | Intern in **Systems Development**</br> <h6>Jul 2026 - Dez 2026</h6> |
-
----
 
 ## License and Contributions
 
@@ -100,3 +103,4 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
+</details>
