@@ -58,7 +58,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=django" height="65" alt="django logo" title="Django" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="65" alt="fastapi logo" title="FastAPI" /><br>
   <img src="https://skillicons.dev/icons?i=java" height="65" alt="java logo" title="Java" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="65" alt="flutter logo" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo" title="Postman" />
   <img src="https://skillicons.dev/icons?i=figma" height="65" alt="figma logo" title="Figma" />
