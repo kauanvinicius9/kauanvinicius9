@@ -14,7 +14,7 @@
 
   ---
 
-Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **design**, **data science**, **automation** and **software development**.
+Professional who works at the intersection of **technology** and **creativity**. Today I work at **Bosch**, where I apply my knowledge in engineering, **design** and **software development**.
 
 I have a passion for transforming ideas into **functional** products — whether with **clean code**, intuitive interfaces, or clear documentation.
 
