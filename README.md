@@ -8,7 +8,7 @@
 <details>  
   <summary align="center">
       <samp>
-        <b style="font-size: 15pt;">About</b>
+        <b style="font-size: 15pt;" title="Click for more informations">About</b>
       </samp>
   </summary>
 
