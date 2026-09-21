@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  Bosch Employee | From Brazil - Campinas/São Paulo | 18 years old | +05 projects - 02 active production
+  Bosch Employee • From Brazil - Campinas / São Paulo • 18 years old • +05 projects - 02 active production
 </p>
 
 <details>  
