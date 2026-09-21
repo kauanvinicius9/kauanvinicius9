@@ -30,13 +30,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 <div align="center">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=10B981&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=006400&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
   <a href="mailto:saleskauan308@gmail.com" title="E-mail">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=10B981&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=006400&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/kauan-vinícius-603754417?utm_source=share_via&utm_content=profile&utm_medium=member_android" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=10B981&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=006400&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
 
