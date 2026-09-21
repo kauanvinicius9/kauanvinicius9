@@ -5,15 +5,14 @@
   </a>
 </p>
 
-
 <p align="center">
-  Bosch Employee • From Brazil - Campinas / São Paulo • 18 years old • +05 projects - 02 active production
+  Bosch Employee • From Brazil - Campinas / São Paulo • 18 years old • +05 projects - 02 live production
 </p>
 
 <details>  
   <summary align="center">
       <samp>
-        <b style="font-size: 15pt;" title="Click for more informations">About</b>
+        <b style="font-size: 15pt;" title="Click for more information">About</b>
       </samp>
   </summary>
 
@@ -31,13 +30,13 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 <div align="center">
   <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=be2929&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=be2929&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
   <a href="mailto:saleskauan308@gmail.com" title="E-mail">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cccccc&logoColor=d20202&labelColor=0000&style=for-the-badge" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=cccccc&logoColor=d20202&labelColor=0000&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/kauan-vinícius-603754417?utm_source=share_via&utm_content=profile&utm_medium=member_android" title="LinkedIn">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1460be&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1460be&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
 
@@ -54,7 +53,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=angular" height="65" alt="angularjs logo" title="Angular" />
   <img src="https://skillicons.dev/icons?i=spring" height="65" alt="spring logo" title="Spring-Boot" /><br>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo" title="Next" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="nextjs logo" title="Next" />
   <img src="https://skillicons.dev/icons?i=vue" height="65" alt="vuejs logo" title="Vue" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="65" alt="nuxtjs logo" title="Nuxt" />
   <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo" title="SCSS/SASS" />
@@ -74,14 +73,10 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 <div align="center">
   <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author.</h6>
-
   <br>
-  
-  See the official MIT License: [MIT License](https://opensource.org/licenses/MIT "Access to MIT License")<br>
-  See the contribution guidelines: [CONTRIBUTING.md](CONTRIBUTING.md "Access to Guide of Contributions")
+  See the official <a href="https://opensource.org/licenses/MIT" title="Access to MIT License">MIT License</a><br>
+  See the contribution guidelines: <a href="CONTRIBUTING.md" title="Access to Guide of Contributions">CONTRIBUTING.md</a>
 </div>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:10B981&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
