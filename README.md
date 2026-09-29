@@ -79,6 +79,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,60,4B2E6F,100,5D3FD3&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
 </details>
