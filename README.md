@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,60,4B2E6F,100,5D3FD3&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7E70&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1200&color=FF7E70&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Bosch+Software+Engineer"/>
   </a> 
@@ -79,6 +79,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,60,4B2E6F,100,5D3FD3&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7E70&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
 </details>
