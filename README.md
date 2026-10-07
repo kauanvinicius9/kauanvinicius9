@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f16&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=220&section=header&text=I'm+Kauan%20Vin%C3%ADcius&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1200&color=3b8f16&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Bosch+Software+Engineer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1200&color=3b8f6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Bosch+Software+Engineer"/>
   </a> 
 </p>
 
@@ -79,6 +79,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b8f16&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b8f6&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
 </details>
