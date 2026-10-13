@@ -67,6 +67,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
   <img src="https://skillicons.dev/icons?i=figma" height="65" alt="figma logo" title="Figma" />
   <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="mongodb logo" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="65" alt="prisma logo" title="Prisma" />
 </div>
 
 <br>
