@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  Bosch Employee • From Brazil - Campinas / São Paulo • 18 years old • +05 projects - 02 live production
+  <img src="https://img.shields.io/badge/Company-Bosch_Employee-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Campinas%2C_SP%2C_Brazil-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-18_Years_Old-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-+5_Built-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Production-02_Live-3b82f6?style=for-the-badge&logoColor=white" />
 </p>
 
 <details>  
