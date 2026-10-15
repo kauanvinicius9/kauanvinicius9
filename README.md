@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bosch_Employee-8c8c8c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Campinas%2C_SP%2C_Brazil-3b82f6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/18_Years_Old-8c8c8c?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/+5_Projects-3b82f6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bosch_Employee-8c8c8c?style=for-the-badge&logoColor=white" title="Company" />
+  <img src="https://img.shields.io/badge/Campinas%2C_SP%2C_Brazil-3b82f6?style=for-the-badge&logoColor=white" title="Location" />
+  <img src="https://img.shields.io/badge/18_Years_Old-8c8c8c?style=for-the-badge&logoColor=white" title="Age" />
+  <img src="https://img.shields.io/badge/+5_Projects-3b82f6?style=for-the-badge&logoColor=white" title="Projects" />
 </p>
 
 <details>  
