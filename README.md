@@ -29,7 +29,7 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
+  <a href="https://www.instagram.com/kauanviniciusl08?igsh=MTA1czhyN3liM3l0NQ==" title="Instagram">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=be2929&logoColor=ffffff&labelColor=0000&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
   <a href="mailto:saleskauan308@gmail.com" title="E-mail">
