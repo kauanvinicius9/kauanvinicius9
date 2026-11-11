@@ -70,6 +70,5 @@ They may take appropriate action in response to unacceptable behavior, including
 If you experience or witness unacceptable behavior, please report it by contacting the project maintainers privately.  
 All reports will be reviewed and handled with discretion.
 
-## Attribution
-
-This Code of Conduct is adapted from common open source community guidelines and best practices.
+> [!NOTE]
+> This Code of Conduct is adapted from common open source community guidelines and best practices.
