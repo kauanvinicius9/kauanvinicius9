@@ -72,12 +72,6 @@ Today, I **focus** on delivering complete tasks, and doing so `100%` professiona
 
 <br>
 
-<div align="center">
-  <h6>Some projects are licensed under the MIT License. You can freely use, modify, and distribute, with proper credit to the author</h6>
-  <br>
-  See the official <a href="https://opensource.org/licenses/MIT" title="Access to MIT License">MIT License</a><br>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=180&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
